@@ -28,8 +28,7 @@ I am a **Software and DevOps Engineer** passionate about building efficient, sca
 #### **⚙️ Tools & Others:**
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?style=flat&logo=visual-studio) ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat&logo=intellij-idea) ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat&logo=visual-studio-code)
 - ![Kafka](https://img.shields.io/badge/Kafka-black?style=flat&logo=apache-kafka) ![Spark](https://img.shields.io/badge/Spark-orange?style=flat&logo=apache-spark) ![Hadoop](https://img.shields.io/badge/Hadoop-yellow?style=flat&logo=apache-hadoop)
-- **Networking:** CCNA I-IV
-- **Software Engineering:** SOLID Principles, UML, Agile (Scrum)
+
 
 ---
 

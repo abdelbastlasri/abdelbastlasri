@@ -8,13 +8,12 @@ I am a **Software and DevOps Engineer** passionate about building efficient, sca
 - 💻 **Software Engineer** | **DevOps Engineer Intern** | **Cloud & Automation Enthusiast**
 - 🏗️ Experienced in designing and developing scalable applications using modern technologies.
 - 🛠️ Passionate about **CI/CD, Infrastructure as Code (IaC), and Cloud Computing**.
-- 📍 Based in **Morocco**, open to opportunities worldwide (Europe, USA).
 
 ---
 
 ### 🛠️ Tech Stack
 #### **👨‍💻 Programming & Frameworks:**
-- ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B) ![C#](https://img.shields.io/badge/C%23-blueviolet?style=flat&logo=c-sharp) ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java) ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+- ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B) ![C#](https://img.shields.io/badge/C%23-blueviolet?style=flat&logo=c-sharp) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet) ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java) ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
 - **Frameworks & Libraries:** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=flat&logo=spring) ![ReactJS](https://img.shields.io/badge/React-blue?style=flat&logo=react) ![AngularJS](https://img.shields.io/badge/Angular-red?style=flat&logo=angular) ![Laravel](https://img.shields.io/badge/Laravel-orange?style=flat&logo=laravel) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js)
 
 #### **🎨 Frontend Technologies:**
@@ -27,9 +26,11 @@ I am a **Software and DevOps Engineer** passionate about building efficient, sca
 - ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=flat&logo=kubernetes) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
 - ![CI/CD](https://img.shields.io/badge/CI%2FCD-lightgray?style=flat&logo=github-actions) ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=flat&logo=jenkins) ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazon-aws)
 - ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![Bash](https://img.shields.io/badge/Bash-gray?style=flat&logo=gnu-bash) ![Ansible](https://img.shields.io/badge/Ansible-red?style=flat&logo=ansible) ![Nagios](https://img.shields.io/badge/Nagios-black?style=flat&logo=nagios)
+- ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka)
 
 #### **📦 Build Tools:**
 - ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 
 ---
 

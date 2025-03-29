@@ -1,4 +1,8 @@
-### Hi there, I'm Abdelbast Lasri! 👋
+### <div align="center">Hi there, I'm Abdelbast Lasri! 👋</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
+</div>
 
 I am a **Software and DevOps Engineer** passionate about building efficient, scalable, and robust applications. With a strong background in backend and frontend development, cloud infrastructure, and automation, I aim to optimize software solutions and improve development workflows.
 
@@ -35,9 +39,11 @@ I am a **Software and DevOps Engineer** passionate about building efficient, sca
 ---
 
 ### 📫 Connect with Me
-- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdelbast-lasri-583028199/)
-- 📧 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:worklasri247@gmail.com)
-- 🏴 [![Reddit](https://img.shields.io/badge/Reddit-orange?style=flat&logo=reddit)](https://www.reddit.com/user/ABLASRI/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/abdelbast-lasri-583028199/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:worklasri247@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.reddit.com/user/ABLASRI/" target="_blank"><img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit"></a>
+</div>
 
 ---
 

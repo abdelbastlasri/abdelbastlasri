@@ -38,6 +38,13 @@ I am a **Software and DevOps Engineer** passionate about building efficient, sca
 
 ---
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdelbastLasri&theme=radical&no-bg=true&margin-w=10&row=1&column=6" />
+</div>
+
+---
+
 ### 📫 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/abdelbast-lasri-583028199/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>

@@ -25,6 +25,7 @@ I am a **Software and DevOps Engineer** passionate about building efficient, sca
 ### 🛠️ Tech Stack
 #### **👨‍💻 Programming & Frameworks:**
 <code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cplusplus/cplusplus.png"></code>
+<code><img height="20" alt="delphi" src="https://raw.githubusercontent.com/github/explore/2abcbcf5ed0bfa517de5d47bbd30b60eeeb531b6/topics/delphi/delphi.png"></code>
 <code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" alt="dotnet" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -34,7 +35,7 @@ I am a **Software and DevOps Engineer** passionate about building efficient, sca
 
 #### **🌐 Frameworks & Libraries:**
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="spring" src="https://raw.githubusercontent.com/github/explore/9b34fd2b6155a29e9eaffbc1b5b847fe5b058d07/topics/spring/spring.png"></code>
+<code><img height="20" alt="springboot" src="https://raw.githubusercontent.com/github/explore/9b34fd2b6155a29e9eaffbc1b5b847fe5b058d07/topics/spring/spring.png"></code>
 <code><img height="20" alt="angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" alt="laravel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" alt="vuejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -49,7 +50,7 @@ I am a **Software and DevOps Engineer** passionate about building efficient, sca
 <code><img height="20" alt="kubernetes" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="20" alt="terraform" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
 <code><img height="20" alt="aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" alt="jenkins" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jenkins/jenkins.png"></code>
+<code><img height="20" alt="jenkins" src="https://raw.githubusercontent.com/github/explore/74f5c64cda2b4b0a67a46802ff6d9538797f5649/topics/jenkins/jenkins.png"></code>
 <code><img height="20" alt="ansible" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
 <code><img height="20" alt="nagios" src="https://raw.githubusercontent.com/github/explore/3dbd29d87f742fe1b380defd7f8f104c06f7a23b/topics/nagios/nagios.png"></code>
 <code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
@@ -57,6 +58,7 @@ I am a **Software and DevOps Engineer** passionate about building efficient, sca
 #### **📦 Build Tools:**
 <code><img height="20" alt="maven" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
 <code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" alt="msbuild" src="https://raw.githubusercontent.com/github/explore/56f6f6ffb493dff5fc67b0caa59a8fa3d60727fe/topics/msbuild/msbuild.png"></code>
 
 
 

@@ -14,7 +14,7 @@ I am a **Software and DevOps Engineer** passionate about building efficient, sca
 - 🛠️ Passionate about **CI/CD, Infrastructure as Code (IaC), and Cloud Computing**.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o85xKwvHj56l3sAyM/giphy.gif" width="40%" />
+  <img src="https://github.com/AbdelbastLasri/AbdelbastLasri/blob/main/images/programming-fun.gif?raw=true" width="40%" />
 </div>
 
 ---
@@ -55,9 +55,7 @@ I am a **Software and DevOps Engineer** passionate about building efficient, sca
 <code><img height="20" alt="maven" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
 <code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xUOxf8FfdyXM6LuzDo/giphy.gif" width="40%" />
-</div>
+
 
 ---
 ### 🔥 Current DevOps Project
@@ -87,14 +85,8 @@ Currently working on a **DevOps project** for the deployment of a **web applicat
   <a href="https://www.reddit.com/user/ABLASRI/" target="_blank"><img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit"></a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/7gmVx9FhHhpl6/giphy.gif" width="40%" />
-</div>
 
 ---
 
 💡 _"Striving for excellence in every line of code."_
 
-<div align="center">
-  <img src="https://media.giphy.com/media/XqYg2f3gIbwXy/giphy.gif" width="40%" />
-</div>

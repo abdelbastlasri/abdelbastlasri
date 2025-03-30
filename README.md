@@ -24,7 +24,7 @@ I am a **Software and DevOps Engineer** passionate about building efficient, sca
 
 ### 🛠️ Tech Stack
 #### **👨‍💻 Programming & Frameworks:**
-<code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cplusplus/cplusplus.png"></code>
 <code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" alt="dotnet" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -34,7 +34,7 @@ I am a **Software and DevOps Engineer** passionate about building efficient, sca
 
 #### **🌐 Frameworks & Libraries:**
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="spring" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png"></code>
+<code><img height="20" alt="spring" src="https://raw.githubusercontent.com/github/explore/9b34fd2b6155a29e9eaffbc1b5b847fe5b058d07/topics/spring/spring.png"></code>
 <code><img height="20" alt="angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" alt="laravel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" alt="vuejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -51,7 +51,7 @@ I am a **Software and DevOps Engineer** passionate about building efficient, sca
 <code><img height="20" alt="aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" alt="jenkins" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jenkins/jenkins.png"></code>
 <code><img height="20" alt="ansible" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
-<code><img height="20" alt="nagios" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nagios/nagios.png"></code>
+<code><img height="20" alt="nagios" src="https://raw.githubusercontent.com/github/explore/3dbd29d87f742fe1b380defd7f8f104c06f7a23b/topics/nagios/nagios.png"></code>
 <code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 #### **📦 Build Tools:**

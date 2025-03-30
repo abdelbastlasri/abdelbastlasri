@@ -4,6 +4,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
 </div>
 
+
+---
+
 I am a **Software and DevOps Engineer** passionate about building efficient, scalable, and robust applications. With a strong background in backend and frontend development, cloud infrastructure, and automation, I aim to optimize software solutions and improve development workflows.
 
 ---

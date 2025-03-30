@@ -17,24 +17,56 @@ I am a **Software and DevOps Engineer** passionate about building efficient, sca
 
 ### 🛠️ Tech Stack
 #### **👨‍💻 Programming & Frameworks:**
-- ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B) ![C#](https://img.shields.io/badge/C%23-blueviolet?style=flat&logo=c-sharp) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet) ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java) ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
-- **Frameworks & Libraries:** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=flat&logo=spring) ![ReactJS](https://img.shields.io/badge/React-blue?style=flat&logo=react) ![AngularJS](https://img.shields.io/badge/Angular-red?style=flat&logo=angular) ![Laravel](https://img.shields.io/badge/Laravel-orange?style=flat&logo=laravel) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js)
+<code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" alt="dotnet" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
-#### **🎨 Frontend Technologies:**
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+#### **🌐 Frameworks & Libraries:**
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="spring" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png"></code>
+<code><img height="20" alt="angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" alt="laravel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="20" alt="vuejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 #### **📊 Databases:**
-- ![SQL Server](https://img.shields.io/badge/SQL%20Server-lightgray?style=flat&logo=microsoft-sql-server) ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb)
+<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
 #### **🖥️ DevOps & Cloud:**
-- ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=flat&logo=kubernetes) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
-- ![CI/CD](https://img.shields.io/badge/CI%2FCD-lightgray?style=flat&logo=github-actions) ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=flat&logo=jenkins) ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazon-aws)
-- ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux) ![Bash](https://img.shields.io/badge/Bash-gray?style=flat&logo=gnu-bash) ![Ansible](https://img.shields.io/badge/Ansible-red?style=flat&logo=ansible) ![Nagios](https://img.shields.io/badge/Nagios-black?style=flat&logo=nagios)
-- ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka)
+<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" alt="kubernetes" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="20" alt="terraform" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
+<code><img height="20" alt="aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="20" alt="jenkins" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jenkins/jenkins.png"></code>
+<code><img height="20" alt="ansible" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
+<code><img height="20" alt="nagios" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nagios/nagios.png"></code>
+<code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 #### **📦 Build Tools:**
-- ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+<code><img height="20" alt="maven" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
+<code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+---
+### 🔥 Current DevOps Project
+Currently working on a **DevOps project** for the deployment of a **web application** using **Jenkins CI/CD** for continuous integration and **Docker** for containerization. The goal is to automate the deployment process and ensure seamless scaling in a cloud environment.
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelbastLasri&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelbastLasri&layout=compact&theme=radical" width="48%" />
+</div>
+
+---
+
+### 🏆 GitHub Trophy
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AbdelbastLasri&theme=onedark)
 
 ---
 
@@ -50,14 +82,6 @@ I am a **Software and DevOps Engineer** passionate about building efficient, sca
   <a href="https://www.linkedin.com/in/abdelbast-lasri-583028199/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:worklasri247@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.reddit.com/user/ABLASRI/" target="_blank"><img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit"></a>
-</div>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelbastLasri&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelbastLasri&layout=compact&theme=radical" width="48%" />
 </div>
 
 ---

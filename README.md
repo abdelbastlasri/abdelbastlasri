@@ -25,7 +25,6 @@ I am a **Software and DevOps Engineer** passionate about building efficient, sca
 ### 🛠️ Tech Stack
 #### **👨‍💻 Programming & Frameworks:**
 <code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cplusplus/cplusplus.png"></code>
-<code><img height="20" alt="delphi" src="https://raw.githubusercontent.com/github/explore/2abcbcf5ed0bfa517de5d47bbd30b60eeeb531b6/topics/delphi/delphi.png"></code>
 <code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" alt="dotnet" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>

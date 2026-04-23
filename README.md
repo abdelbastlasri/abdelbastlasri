@@ -86,7 +86,7 @@ Currently working on a **DevOps project** for the deployment of a **web applicat
 <div align="center">
   <a href="https://www.linkedin.com/in/abdelbast-lasri-583028199/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:worklasri247@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.reddit.com/user/ABLASRI/" target="_blank"><img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit"></a>
+  
 </div>
 
 
